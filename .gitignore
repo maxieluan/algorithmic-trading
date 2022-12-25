@@ -2,7 +2,8 @@ Files/
 Include/
 Indicators/Examples/
 Indicators/PreBuilt/
-Libraries/
+Libraries/mqlcache.dat
+Libraries/stdlib.*
 Presets/
 Projects/
 Shared Projects/
