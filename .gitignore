@@ -1,7 +1,13 @@
 Files/
 Include/
+Indicators/Examples/
+Indicators/PreBuilt/
 Libraries/
-Presents/
+Presets/
 Projects/
 Shared Projects/
 Logs/
+Scripts/Examples/
+Scripts/mqlCache.dat
+Scripts/PeriodConverter.*
+
